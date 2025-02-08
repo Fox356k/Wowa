@@ -1,0 +1,80 @@
+body{
+	font-family: Arial;
+	padding: 10px;
+	background: #9400D3;
+}
+.header{
+	padding: 30px;
+	text-align: center;
+	background:#BA55D3;
+}
+.header h1{
+	font-size: 50px;
+}
+.nav{
+	overflow: hidden;
+	background-color: #8B008B;
+}
+.nav a{
+	float:left;
+	display: block;
+	color: #6A5ACD;
+	padding: 14px 16px;
+	text-decoration: none; 
+}
+
+.summary{
+	padding: 0 10%;
+}
+.photo1{
+	width: 30%;
+	padding: 1.11rem;
+	border-radius: 5px;
+	margin: 0 20px 1.5rem auto;
+	background-color:#BA55D3;
+	float:left;
+}
+.photo2{
+	width: 30%;
+	padding: 1.11rem;
+	border-radius: 5px;
+	margin: 0 20px 1.5rem auto;
+	background-color: #DDA0DD;
+	float:left;
+}
+.photo img{
+	width: 100%;
+}
+.photo .caption{
+	font-size: 14px;
+	font-style: italic;
+}
+.footer{
+	clear: left;
+	padding: 20px;
+	text-align: center;
+	background: #6A5ACD;
+	margin-top: 20px;
+}
+.lolcat1{
+	width: 70%;
+	margin: 0 20px 1.5rem auto;
+	background-color:#BA55D3;
+	float:left;
+}
+.loicat4{
+	width: 70%;
+	margin: 0 20px 1.5rem auto;
+	background-color: #DDA0DD;
+	float:left;
+}
+.photo .Dors{
+	font-size: 14px;
+	font-style: italic;
+}
+.h2{
+	color: #00FF00
+}
+.h3{
+	color: #00FF00
+}
